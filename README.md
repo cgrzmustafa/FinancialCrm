@@ -35,6 +35,7 @@ Kullanıcılar harcamalarını, faturalarını, banka hesaplarını ve genel fin
 Proje görüntülerine aşağıdan ulaşabilirsiniz:
 
 <img width="481" height="351" alt="image" src="https://github.com/user-attachments/assets/8b34fce2-251e-4016-a2e7-1c626c97c922" />
+---
 
 <img width="1148" height="645" alt="image" src="https://github.com/user-attachments/assets/94618292-7364-4af3-bf61-77acdc876714" />
 
